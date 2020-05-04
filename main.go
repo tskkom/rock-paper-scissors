@@ -9,6 +9,6 @@ func main() {
 			"message": "ping",
 		})
 	})
-	// ポートを設定しています。
+
 	r.Run(":3001")
 }
